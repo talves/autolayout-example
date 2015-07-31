@@ -3,6 +3,11 @@
 
 Example of Famous-AutoLayout using the [Famous Engine][2]
 
+### Demo Site
+ - [Click here for a Demo][3]
+
+---
+
 ### Features
  - AutoLayout of a grid with nodes
 
@@ -40,3 +45,4 @@ MIT
 
 [1]: https://github.com/IjzerenHein/famous-autolayout
 [2]: https://github.com/famous/engine
+[3]: http://talves.github.io/autolayout-example/

@@ -26,6 +26,7 @@
     "gulp": "^3.8.11",
     "gulp-changed": "^1.2.1",
     "gulp-filesize": "0.0.6",
+    "gulp-gh-pages": "^0.5.2",
     "gulp-jshint": "^1.11.0",
     "gulp-minify-css": "^1.1.1",
     "gulp-notify": "^2.2.0",
