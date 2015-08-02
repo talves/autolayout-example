@@ -36,7 +36,7 @@ animation.start();
 var vfl = `
 H:|-[row:[red(green)]-[green]]-|
 H:|-[row2:[blue(yellow)]-[yellow]]-|
-V:|-[row(50%)]-[row2(50%)]-|
+V:|-[row(row2)]-[row2]-|
 `;
 
 // Create autolayout controller with some colored divs
